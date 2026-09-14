@@ -1,6 +1,6 @@
 site:
-  name: AstroWind
-  site: 'https://astrowind.vercel.app'
+  name: HOKA.Exchange
+  site: 'https://hoka.exchange'
   base: '/'
   trailingSlash: false
 
@@ -9,9 +9,9 @@ site:
 # Default SEO metadata
 metadata:
   title:
-    default: AstroWind
-    template: '%s — AstroWind'
-  description: "\U0001F680 Suitable for Startups, Small Business, Sass Websites, Professional Portfolios, Marketing Websites, Landing Pages & Blogs."
+    default: HOKA.Exchange
+    template: 'HOKA.Exchange'
+  description: "HOKA.Exchange is a non-custodial, instant cryptocurrency exchange service designed for fast, registration-free token swaps. Unlike traditional crypto platforms, it does not require you to create an account or hold your funds on the platform, allowing you to swap over 1,000 different digital assets across more than 110 blockchains."
   robots:
     index: true
     follow: true
