@@ -120,10 +120,11 @@ const structuredData = [
     </Fragment>
   </CallToAction>
       <span class="hidden sm:inline">
-        <span class="font-semibold"></span> </span
+        <span class="font-semibold">AstroWind</span> is a free, customizable and production-ready template for Astro v7 +
+        Tailwind CSS v4.</span
       >
-      <span class="block mb-1 sm:hidden font-bold text-blue-600">Non-Custodial & No KYC: </span>
-     Non-Custodial & No KYC: The exchange does not hold your keys or digital assets. It routes swaps directly between external crypto wallets, meaning you do not need to create an account or verify your identity for standard swaps.
+      <span class="block mb-1 sm:hidden font-bold text-blue-600">AstroWind: Production-ready.</span>
+      Suitable for Startups, Small Business, SaaS websites, Professional Portfolios, Marketing websites, Landing Pages & Blogs.
     </Fragment>
   </Hero>
 
