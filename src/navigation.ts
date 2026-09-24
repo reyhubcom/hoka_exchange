@@ -111,7 +111,7 @@ export const headerData = {
       ],
     },
   ],
-  actions: [{ text: 'HOKA Shop', href: 'https://linktr.ee/HOKA.Shop', target: '_blank' }],
+  actions: [{ text: 'HOKA Shop', href: 'https://linktr.ee/HOKA.Link', target: '_blank' }],
 };
 
 export const footerData = {
