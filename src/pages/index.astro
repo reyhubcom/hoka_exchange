@@ -222,11 +222,22 @@ const structuredData = [
     ]}
   />
 
+  <!-- Stats Widget ****************** -->
+
+  <Stats
+    id="stats"
+    countUp
+    stats={[
+      { title: 'User Worldwide', amount: '10M +' },
+      { title: 'Countries Supported', amount: '175' },
+      { title: 'Years of Operation', amount: '9+' },
+      { title: 'Human Support', amount: '24/7' },
+    ]}
+  />
+
+  <!-- CallToAction Widget *********** -->
+
   
-    <Fragment slot="subtitle">
-      Free, open source and production-ready. <br class="hidden md:inline" />Clone it, replace the content and deploy.
-    </Fragment>
-  </CallToAction>
   <script>
   (function(){var w=window;if(w.ChannelIO){return w.console.error("ChannelIO script included twice.");}var ch=function(){ch.c(arguments);};ch.q=[];ch.c=function(args){ch.q.push(args);};w.ChannelIO=ch;function l(){if(w.ChannelIOInitialized){return;}w.ChannelIOInitialized=true;var s=document.createElement("script");s.type="text/javascript";s.async=true;s.src="https://cdn.channel.io/plugin/ch-plugin-web.js";var x=document.getElementsByTagName("script")[0];if(x.parentNode){x.parentNode.insertBefore(s,x);}}if(document.readyState==="complete"){l();}else{w.addEventListener("DOMContentLoaded",l);w.addEventListener("load",l);}})();
 
