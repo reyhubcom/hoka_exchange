@@ -128,16 +128,6 @@ const structuredData = [
   </Hero>
 
   <!-- SocialProof Widget ************ -->
-   <QuickStart
-    id="quick-start"
-    classes={{ icon: 'bg-green-600 dark:bg-green-700' }}
-    tagline=""
-    title="Fast Crypto Exchange."
-    
-    items={[
-      
-    ]}
-  >
 
   <Stats
     id="stats"
