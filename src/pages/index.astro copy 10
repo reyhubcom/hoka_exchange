@@ -152,7 +152,7 @@ const structuredData = [
     commands={['npm create astro@latest -- --template arthelokyo/astrowind']}
     items={[
       {
-        title: '# Choose Currency',
+        title: 'Two minutes, one terminal',
         description:
           'Answer the prompts, run <code>npm run dev</code>, open localhost:4321. The demo site is now yours to edit. The only requirement is a current Node.js.',
         icon: 'tabler:terminal-2',
@@ -222,7 +222,20 @@ const structuredData = [
     ]}
   />
 
-  
+  <!-- Stats Widget ****************** -->
+
+  <Stats
+    id="stats"
+    countUp
+    stats={[
+      { title: 'User Worldwide', amount: '10M +' },
+      { title: 'Countries Supported', amount: '175' },
+      { title: 'Years of Operation', amount: '9+' },
+      { title: 'Human Support', amount: '24/7' },
+    ]}
+  />
+
+  <!-- CallToAction Widget *********** -->
 
   
   <script>
