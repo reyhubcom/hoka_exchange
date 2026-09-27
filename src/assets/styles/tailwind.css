@@ -47,7 +47,7 @@
 }
 
 @utility text-page {
-  color: var(--aw-color-text-default);
+  color: var(--aw-color-text-default-dark);
 }
 
 @utility text-muted {
