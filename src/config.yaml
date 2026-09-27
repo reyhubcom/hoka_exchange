@@ -1,6 +1,6 @@
 site:
-  name: HOKA.Exchange
-  site: 'https://hoka.exchange'
+  name: KIKO.Exchange
+  site: 'https://kiko.exchange'
   base: '/'
   trailingSlash: false
 
@@ -9,14 +9,14 @@ site:
 # Default SEO metadata
 metadata:
   title:
-    default: HOKA.Exchange
-    template: 'HOKA.Exchange'
-  description: "HOKA.Exchange is a non-custodial, instant cryptocurrency exchange service designed for fast, registration-free token swaps. Unlike traditional crypto platforms, it does not require you to create an account or hold your funds on the platform, allowing you to swap over 1,000 different digital assets across more than 110 blockchains."
+    default: KIKO.Exchange
+    template: 'KIKO.Exchange'
+  description: " KIKO.Exchange Unlimited Swaps Fast. Free of Custody. Non-custodial. Best Rates. Safe & Trusted. ChangeNow Exchange. Low Fees and High Liquidity. User-friendly Interface. Exchange Now. Non-Custodial Service. Multiple Payment Options. Steps: Get Your Coins, Make Deposit."
   robots:
     index: true
     follow: true
   openGraph:
-    site_name: AstroWind
+    site_name: KIKO.Exchange
     images:
       - url: '~/assets/images/default.png'
         width: 1200
@@ -34,7 +34,7 @@ i18n:
 apps:
   blog:
     isEnabled: true
-    postsPerPage: 8
+    postsPerPage: 6
 
     post:
       isEnabled: true
